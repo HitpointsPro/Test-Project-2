@@ -15,9 +15,8 @@ with open('.dist/index.html', 'w', encoding='utf-8') as f:
 
 # Генерируем style.css
 with open('.dist/style.css', 'w', encoding='utf-8') as f:
-    f.write('body {\n    font-family: Arial, sans-serif;\n    background-color: #f0f0f0;\n    color: #333;\n    padding: 20px;\n}
-
-h1 {\n    color: #007BFF;\n}
+    f.write('body {\n    font-family: Arial, sans-serif;\n    background-color: #f0f0f0;\n    color: #333;\n    padding: 20px;\n} \
+h1 {\n    color: #007BFF;\n} \
 ')
 
 # Генерируем script.js
