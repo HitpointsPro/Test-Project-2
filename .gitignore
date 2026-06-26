@@ -1,0 +1,8 @@
+.env/
+.dist/
+.vscode/
+__pycache__/
+.env
+.flake8
+.init.bat
+.token
